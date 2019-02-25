@@ -17,7 +17,7 @@
 
 ## Usage
 ### Step-1: `Copy the gulpfile.js to root folder of node app`
-### Step-2: `Create your SCSS(input) and CSS(folders) folders`
+### Step-2: `Create your SCSS(input) and CSS(output) folders`
 ### Step-3: `Change the input and output folder in gulpfile.js`
 ### Step-4: `cd to the root folder and type gulp `
 
