@@ -9,4 +9,4 @@ before_script:
   - npm install gulp-uglify
   - npm install gulp-rename
   - npm install gulp-changed
-script: gulp
+script: gulp --tasks
