@@ -4,10 +4,15 @@
 - Node.js(obviously)
 - Gulp4(Do not use gulp3 `npm install gulp`)
 - Other Dependencies 
+
   `npm install gulp-sass`
+  
   `npm install gulp-clean-css`
+  
   `npm install gulp-uglify`
+  
   `npm install gulp-rename`
+  
   `npm install gulp-changed`
 
 ## Usage
