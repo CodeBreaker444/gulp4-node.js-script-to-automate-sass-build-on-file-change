@@ -1,4 +1,4 @@
-# GULP Script to Automate The SCSS Compilation ![](https://travis-ci.org/CodeBreaker444/api-merger-for-multipage-json-data-python.svg?branch=master)
+# GULP Script to Automate The SCSS Compilation ![](https://travis-ci.org/CodeBreaker444/gulp4-node.js-script-to-automate-sass-build-on-file-change.svg?branch=master)
 
 ## Requirements:
 - Node.js(obviously)
